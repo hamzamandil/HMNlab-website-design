@@ -1,2 +1,2 @@
 # HMNlab-website-design
-Html5 &amp; Css3 website
+just a template i created with Html5 &amp; Css30
